@@ -56,15 +56,15 @@ matlab> [predicted_label, total_squared_error, squared_correlation_coefficient] 
   -training_instance_matrix: 
     The instance matrix used for training. 
   -alpha:
-    The output of MTLSSVRTrain.
+    The output of MLSSVRTrain.
   -b: 
-    The output of MTLSSVRTest. 
+    The output of MLSSVRTest. 
   -lambda:
     A positive real regularized parameter.
-    It should be same as counterpart in MTLSSVRTrain. 
+    It should be same as counterpart in MLSSVRTrain. 
   -p: 
     The positive hyperparameter of RBF kernel function. 
-    It should be same as counterpart in MTLSSVRTrain.  
+    It should be same as counterpart in MLSSVRTrain.  
 ```
 
 2.2. Examples
