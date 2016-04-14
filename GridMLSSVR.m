@@ -2,7 +2,7 @@ function [gamma_best, lambda_best, p_best, MSE_best] = GridMLSSVR(trnX, trnY, fo
 % 
 % [gamma_best, lambda_best, p_best, MSE_best] = GridMLSSVR(trnX, trnY, fold); 
 % 
-% author: XU Shuo (pzczxs@gmail.com)
+% author: XU, Shuo (pzczxs@gmail.com)
 % date: 2011-12-25
 % 
 gamma = 2.^(-5: 2: 15); 
