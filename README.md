@@ -58,7 +58,7 @@ matlab> [predicted_label, total_squared_error, squared_correlation_coefficient] 
   -alpha:
     The output of MLSSVRTrain.
   -b: 
-    The output of MLSSVRTest. 
+    The output of MLSSVRTrain. 
   -lambda:
     A positive real regularized parameter.
     It should be same as counterpart in MLSSVRTrain. 
