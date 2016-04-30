@@ -90,7 +90,7 @@ matlab> [gamma, lambda, p, MSE] = GridMLSSVR(trnX, trnY, 10);
 
 This toolbox is written by XU, Shuo from Institute of Scientific and Technical Information of China (ISTIC). If you find this toolbox useful, please cite MLS-SVR as follows
 
-Shuo Xu, Xin An, Xiaodong Qiao, Lijun Zhu, and Lin Li, 2013. Multi-Output Least-Squares Support Vector Regression Machines. Pattern Recognition Letters, Vol. 34, No. 9, pp. 1078-1084. 
+Shuo Xu, Xin An, Xiaodong Qiao, Lijun Zhu, and Lin Li, 2013. Multi-Output Least-Squares Support Vector Regression Machines. Pattern Recognition Letters, Vol. 34, No. 9, pp. 1078-1084. DOI: http://doi.org/10.1016/j.patrec.2013.01.015.
 
 For any question, please contact XU, Shuo <xush@istic.ac.cn> OR <pzczxs@gmail.com>.
 
@@ -102,4 +102,4 @@ For any question, please contact XU, Shuo <xush@istic.ac.cn> OR <pzczxs@gmail.co
 
 [3] Theodoros Evgeniou and Massimiliano Pontil, 2004. Regularized Multi-Task Learning. Proceedings of the 10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), pp. 109-117. 
 
-[4] Shuo Xu, Xin An, Xiaodong Qiao, Lijun Zhu, and Lin Li, 2013. Multi-Output Least-Squares Support Vector Regression Machines. Pattern Recognition Letters, Vol. 34, No. 9, pp. 1078-1084. DOI: 10.1016/j.patrec.2013.01.015.
+[4] Shuo Xu, Xin An, Xiaodong Qiao, Lijun Zhu, and Lin Li, 2013. Multi-Output Least-Squares Support Vector Regression Machines. Pattern Recognition Letters, Vol. 34, No. 9, pp. 1078-1084. DOI: http://doi.org/10.1016/j.patrec.2013.01.015.
