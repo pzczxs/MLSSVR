@@ -100,6 +100,6 @@ For any question, please contact XU, Shuo <xush@istic.ac.cn> OR <pzczxs@gmail.co
 
 [2] Johan A. K. Suyken, Tony van Gestel,  Jos de Brabanter, Bart de Moor, and Joos Vandewalle, 2002. Least-Squares Support Vector Machines. World Scientific Pub. Co.
 
-[3] Theodoros Evgeniou and Massimiliano Pontil, 2004. Regularized Multi-Task Learning. Proceedings of the 10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), pp. 109-117. 
+[3] Theodoros Evgeniou and Massimiliano Pontil, 2004. Regularized Multi-Task Learning. *Proceedings of the 10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)*, pp. 109-117. 
 
-[4] Shuo Xu, Xin An, Xiaodong Qiao, Lijun Zhu, and Lin Li, 2013. Multi-Output Least-Squares Support Vector Regression Machines. Pattern Recognition Letters, Vol. 34, No. 9, pp. 1078-1084. DOI: http://doi.org/10.1016/j.patrec.2013.01.015.
+[4] Shuo Xu, Xin An, Xiaodong Qiao, Lijun Zhu, and Lin Li, 2013. Multi-Output Least-Squares Support Vector Regression Machines. *Pattern Recognition Letters*, Vol. 34, No. 9, pp. 1078-1084. DOI: http://doi.org/10.1016/j.patrec.2013.01.015.
