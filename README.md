@@ -96,7 +96,7 @@ For any question, please contact XU, Shuo <xush@istic.ac.cn> OR <pzczxs@gmail.co
 
 3. References
 ===========
-[1] C. Saunders, A. Gammerman, and V. Vovk, 1998. Ridge Regression Learning Algorithm in Dual Variables. Proceedings of the 15th International Conference on Machine Learning (ICML), pp. 515-521. 
+[1] C. Saunders, A. Gammerman, and V. Vovk, 1998. Ridge Regression Learning Algorithm in Dual Variables. *Proceedings of the 15th International Conference on Machine Learning (ICML)*, pp. 515-521. 
 
 [2] Johan A. K. Suyken, Tony van Gestel,  Jos de Brabanter, Bart de Moor, and Joos Vandewalle, 2002. Least-Squares Support Vector Machines. World Scientific Pub. Co.
 
