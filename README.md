@@ -4,7 +4,7 @@ Multi-output Least-Squares Support Vector Regression Machines
 ## 1. Introduction
 
 ### 1.1. Description
-Multi-output regression aims at learning a mapping from a multivariate input feature space to a multivariate output space. Despite its potential usefulness, the standard formulation of the least-squares support vector regression machine (LS-SVR) [1, 2] cannot cope with the multi-output case. The usual procedure is to train multiple independent LS-SVR, thus disregarding the underlying (potentially nonlinear) cross relatedness among different outputs. 
+Multi-output regression aims at learning a mapping from a multivariate input feature space to a multivariate output space. Despite its potential usefulness, the standard formulation of the least-squares support vector regression machine (LS-SVR) [1][2] cannot cope with the multi-output case. The usual procedure is to train multiple independent LS-SVR, thus disregarding the underlying (potentially nonlinear) cross relatedness among different outputs. 
 
 To address this problem, inspired by the multi-task learning methods (such as [3]), Xu et. al. [4] proprosed a novel approach, Multi-output LS-SVR (MLS-SVR), in multi-output setting. MLSSVR is a MATLAB implementation of MLS-SVR with the more efficient training algorithm in [4]. 
 
