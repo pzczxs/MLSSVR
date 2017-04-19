@@ -80,7 +80,7 @@ matlab> [gamma, lambda, p, MSE] = GridMLSSVR(trnX, trnY, 10);
 
 ### 2.3. Additional Information
 
-This toolbox is written by XU, Shuo from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite MLS-SVR as follows:
+This toolbox is written by [XU, Shuo](http://xushuo.space/wiki/) from [Beijing University of Technology](http://www.bjut.edu.cn). If you find this toolbox useful, please cite MLS-SVR as follows:
 
 Shuo Xu, Xin An, Xiaodong Qiao, Lijun Zhu, and Lin Li, 2013. [Multi-Output Least-Squares Support Vector Regression Machines](http://doi.org/10.1016/j.patrec.2013.01.015). Pattern Recognition Letters, Vol. 34, No. 9, pp. 1078-1084. 
 
