@@ -84,7 +84,7 @@ This toolbox is written by [XU, Shuo](http://54xushuo.net/wiki/) from [Beijing U
 
 Shuo Xu, Xin An, Xiaodong Qiao, Lijun Zhu, and Lin Li, 2013. [Multi-Output Least-Squares Support Vector Regression Machines](http://doi.org/10.1016/j.patrec.2013.01.015). Pattern Recognition Letters, Vol. 34, No. 9, pp. 1078-1084. 
 
-For any question, please contact XU, Shuo <xushuo@bjut.edu.cn> OR <pzczxs@gmail.com>.
+For any question, please contact XU, Shuo at <xushuo@bjut.edu.cn> OR <pzczxs@gmail.com>.
 
 ## 3. References
 [1] C. Saunders, A. Gammerman, and V. Vovk, 1998. Ridge Regression Learning Algorithm in Dual Variables. *Proceedings of the 15th International Conference on Machine Learning (ICML)*, pp. 515-521. 
